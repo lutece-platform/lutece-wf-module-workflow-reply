@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Module workflow reply</title>
+    </properties>
+    <head>
+        <meta name="keywords" content="workflow, task, reply" />
+    </head>
+    <body>
+        <section name="Module workflow reply">
+            <subsection name = "Introduction">
+                 <p> This module provides a task for entering a response in a workflow. </p>
+                 <p> The answer entered can then be included as a bookmark in a notification. </p>
+             </subsection>
+             <subsection name = "Configuration">
+                 <p> The configuration of each response task is in BackOffice. </p>
+             </subsection>
+             <subsection name = "Usage">
+                 <p> To display the bookmarks for this response task in the notification task configuration, select the "answer" bookmark provider in the advanced configuration of the notification task. </p>
+             </subsection>
+        </section>
+    </body>
+</document>

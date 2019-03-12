@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Module workflow reply</title>
+    </properties>
+    <head>
+        <meta name="keywords" content="processus, tâche, réponse" />
+    </head>
+    <body>
+        <section name="Module workflow reply">
+            <subsection name="Introduction">
+                <p>Ce module permet de disposer d'une tâche permettant de saisir une réponse dans un workflow. </p>
+                <p>La réponse saisie peut être ensuite inclue comme signet dans une notification</p>
+            </subsection>
+            <subsection name="Configuration">
+                <p>La configuration de chaque tâche de réponse se fait en BackOffice. </p>
+            </subsection>
+            <subsection name="Usage">
+                <p>Pour faire apparaître les signets de cette tâche réponse dans la configuration de la tâche de notification, sélectionner le fournisseur de signets "réponse" dans la configuration avancée de la tâche de notification.</p>
+            </subsection>
+        </section>
+    </body>
+</document>
