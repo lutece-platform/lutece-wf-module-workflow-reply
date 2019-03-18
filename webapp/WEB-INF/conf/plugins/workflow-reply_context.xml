@@ -52,5 +52,8 @@
     <!-- TaskInfoProvider -->
     <bean id="workflow-reply.replyTaskInfoProvider" class="fr.paris.lutece.plugins.workflow.modules.reply.service.taskinfo.ReplyTaskInfoProvider"
 		p:taskType-ref="workflow-reply.taskTypeReply" />
+    <!-- Marker provider -->
+    <bean id="workflow-reply.replyMarkerProvider"      class="fr.paris.lutece.plugins.workflow.modules.reply.service.provider.ReplyMarkerProvider" />
+       
     
 </beans>
